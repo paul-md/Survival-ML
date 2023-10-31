@@ -1,4 +1,4 @@
-# Survival-ML - Supporting code for the study "Survival machine learning prediction of out-of-hospital cardiovascular and all-cause mortality in coronary artery disease: an analysis from a prospective percutaneous coronary intervention registry"
+# Survival-ML - Supporting code for the study "Precision phenotyping from routine laboratory values  for out-of-hospital cardiovascular and all-cause mortality prediction in an all-comers prospective percutaneous coronary intervention registry"
 <br>
 <br>
 <br>
